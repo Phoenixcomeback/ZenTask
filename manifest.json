@@ -1,0 +1,19 @@
+
+{
+  "name": "ZenTask AI",
+  "short_name": "ZenTask",
+  "description": "Premium AI-powered task manager and focus timer.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#050810",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/9062/9062564.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
